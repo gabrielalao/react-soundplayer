@@ -1,1 +1,1 @@
-3 react soundplayer methods and functions used and updated on 8/3/2017
+5 react soundplayer methods and functions used and updated on 11/26/2017
